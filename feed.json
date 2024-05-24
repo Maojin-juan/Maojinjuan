@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "毛巾的小天地",
+    "description": "這裡是毛巾分享自己技術的地方，包含前端及3D作品",
+    "home_page_url": "https://maojin-juan.github.io/Maojinjuan",
+    "items": [
+        {
+            "id": "https://maojin-juan.github.io/Maojinjuan/2024/05/22/Pototan/",
+            "url": "https://maojin-juan.github.io/Maojinjuan/2024/05/22/Pototan/",
+            "title": "Pototan",
+            "date_published": "2024-05-22T14:36:54.000Z",
+            "content_html": "<div align='center'><font size='70'>Pototan_三視圖</font></div>\n<h1 id=\"正面\"><a class=\"markdownIt-Anchor\" href=\"#正面\">#</a> 正面</h1>\n<p><img data-src=\"Pototan_Front.png\" alt=\"Pototan正面\"></p>\n<span id=\"more\"></span>\n<h1 id=\"側面\"><a class=\"markdownIt-Anchor\" href=\"#側面\">#</a> 側面</h1>\n<p><img data-src=\"Pototan_Side.png\" alt=\"Pototan側面\"></p>\n<h1 id=\"背面\"><a class=\"markdownIt-Anchor\" href=\"#背面\">#</a> 背面</h1>\n<p><img data-src=\"Pototan_Back.png\" alt=\"Pototan背面\"></p>\n",
+            "tags": [
+                "3D",
+                "Blender",
+                "VRM"
+            ]
+        },
+        {
+            "id": "https://maojin-juan.github.io/Maojinjuan/2024/05/22/%E5%B0%8F%E9%9B%9E/",
+            "url": "https://maojin-juan.github.io/Maojinjuan/2024/05/22/%E5%B0%8F%E9%9B%9E/",
+            "title": "小雞",
+            "date_published": "2024-05-22T14:33:41.000Z",
+            "content_html": "<div align='center'><font size='70'>小雞_練習</font></div>\n<p><img data-src=\"Chick.png\" alt=\"小雞\"></p>\n<span id=\"more\"></span>\n<h1 id=\"下面沒有東西了\"><a class=\"markdownIt-Anchor\" href=\"#下面沒有東西了\">#</a> 下面沒有東西了</h1>\n",
+            "tags": [
+                "3D",
+                "Blender",
+                "練習"
+            ]
+        },
+        {
+            "id": "https://maojin-juan.github.io/Maojinjuan/2024/05/22/%E4%BC%81%E9%B5%9D/",
+            "url": "https://maojin-juan.github.io/Maojinjuan/2024/05/22/%E4%BC%81%E9%B5%9D/",
+            "title": "企鵝",
+            "date_published": "2024-05-22T14:30:56.000Z",
+            "content_html": "<div align='center'><font size='70'>企鵝_練習</font></div>\n<p><img data-src=\"Penguin.png\" alt=\"企鵝\"></p>\n<span id=\"more\"></span>\n<h1 id=\"下面沒有東西了\"><a class=\"markdownIt-Anchor\" href=\"#下面沒有東西了\">#</a> 下面沒有東西了</h1>\n",
+            "tags": [
+                "3D",
+                "Blender",
+                "練習"
+            ]
+        },
+        {
+            "id": "https://maojin-juan.github.io/Maojinjuan/2024/05/22/%E5%90%89%E4%BB%96%E5%A5%B3%E5%AD%A9/",
+            "url": "https://maojin-juan.github.io/Maojinjuan/2024/05/22/%E5%90%89%E4%BB%96%E5%A5%B3%E5%AD%A9/",
+            "title": "吉他女孩",
+            "date_published": "2024-05-22T13:07:25.000Z",
+            "content_html": "<div align='center'><font size='70'>吉他女孩_渲染圖</font></div>\n<p><img data-src=\"GuitarGirl.png\" alt=\"吉他女孩\"></p>\n<span id=\"more\"></span>\n<h1 id=\"下面沒有東西了\"><a class=\"markdownIt-Anchor\" href=\"#下面沒有東西了\">#</a> 下面沒有東西了</h1>\n",
+            "tags": [
+                "3D",
+                "Blender"
+            ]
+        }
+    ]
+}

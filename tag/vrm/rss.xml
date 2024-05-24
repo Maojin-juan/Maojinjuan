@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>毛巾的小天地 • Posts by &#34;vrm&#34; tag</title>
+        <link>https://maojin-juan.github.io/Maojinjuan</link>
+        <description>這裡是毛巾分享自己技術的地方，包含前端及3D作品</description>
+        <language>zh-TW</language>
+        <pubDate>Wed, 22 May 2024 22:36:54 +0800</pubDate>
+        <lastBuildDate>Wed, 22 May 2024 22:36:54 +0800</lastBuildDate>
+        <category>3D</category>
+        <category>Blender</category>
+        <category>VRM</category>
+        <category>練習</category>
+        <item>
+            <guid isPermalink="true">https://maojin-juan.github.io/Maojinjuan/2024/05/22/Pototan/</guid>
+            <title>Pototan</title>
+            <link>https://maojin-juan.github.io/Maojinjuan/2024/05/22/Pototan/</link>
+            <category>3D</category>
+            <category>Blender</category>
+            <category>VRM</category>
+            <pubDate>Wed, 22 May 2024 22:36:54 +0800</pubDate>
+            <description><![CDATA[ &lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;70&#39;&gt;Pototan_三視圖&lt;/font&gt;&lt;/div&gt;
+&lt;h1 id=&#34;正面&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#正面&#34;&gt;#&lt;/a&gt; 正面&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;Pototan_Front.png&#34; alt=&#34;Pototan正面&#34;&gt;&lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+&lt;h1 id=&#34;側面&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#側面&#34;&gt;#&lt;/a&gt; 側面&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;Pototan_Side.png&#34; alt=&#34;Pototan側面&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;背面&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#背面&#34;&gt;#&lt;/a&gt; 背面&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;Pototan_Back.png&#34; alt=&#34;Pototan背面&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

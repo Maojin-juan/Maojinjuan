@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://maojin-juan.github.io/Maojinjuan</id>
+    <title>毛巾的小天地 • Posts by &#34;vrm&#34; tag</title>
+    <link href="https://maojin-juan.github.io/Maojinjuan" />
+    <updated>2024-05-22T14:36:54.000Z</updated>
+    <category term="3D" />
+    <category term="Blender" />
+    <category term="VRM" />
+    <category term="練習" />
+    <entry>
+        <id>https://maojin-juan.github.io/Maojinjuan/2024/05/22/Pototan/</id>
+        <title>Pototan</title>
+        <link rel="alternate" href="https://maojin-juan.github.io/Maojinjuan/2024/05/22/Pototan/"/>
+        <content type="html">&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;70&#39;&gt;Pototan_三視圖&lt;/font&gt;&lt;/div&gt;
+&lt;h1 id=&#34;正面&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#正面&#34;&gt;#&lt;/a&gt; 正面&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;Pototan_Front.png&#34; alt=&#34;Pototan正面&#34;&gt;&lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+&lt;h1 id=&#34;側面&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#側面&#34;&gt;#&lt;/a&gt; 側面&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;Pototan_Side.png&#34; alt=&#34;Pototan側面&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;背面&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#背面&#34;&gt;#&lt;/a&gt; 背面&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;Pototan_Back.png&#34; alt=&#34;Pototan背面&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="3D" />
+        <category term="Blender" />
+        <category term="VRM" />
+        <updated>2024-05-22T14:36:54.000Z</updated>
+    </entry>
+</feed>
