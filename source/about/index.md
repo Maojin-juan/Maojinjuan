@@ -2,7 +2,7 @@
 title: about
 date: 2024-05-22 21:20:10
 ---
-![](img/Penguin.png)
+
 # 毛巾
 無業遊民
 
